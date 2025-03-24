@@ -87,15 +87,15 @@ This list is a **community-driven effort** and we encourage:
 - **Threema** 🇨🇭: Secure and privacy-friendly. [Website](https://threema.ch)
 - **Element** 🇬🇧: Decentralised, built on the Matrix protocol. [Website](https://element.io)
 - **Wire** 🇨🇭🇩🇪: Enterprise-grade secure messaging. [Website](https://wire.com)
+- **DeltaChat** 🇩🇪: Secure, decentralized, built on email and open standards. [Website](https://delta.chat)
 
 ## Social Media
-- **Mastodon** 🌐: global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. Originally created by a German 🇩🇪 [Website](https://joinmastodon.org)  
-- **Loops** 🇪🇺: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.social)  
-- **PeerTube** 🇫🇷: Federated, ad-free video hosting alternative to YouTube. [Website](https://joinpeertube.org)  
+- **Mastodon** 🌐: global & decentralised social network alternative to Twitter. No US control, no ads, and no central authority. Originally created by a German🇩🇪 [Website](https://joinmastodon.org)  
+- **Loops** 🇨🇦: Privacy-friendly short video platform alternative to TikTok. [Website](https://loops.social)  
+- **PeerTube** 🌐: Federated, ad-free video hosting alternative to YouTube. Originally created by a French person 🇫🇷. [Website](https://joinpeertube.org)  
 - **Friendica** 🇪🇺: Open-source, decentralised social network alternative to Facebook. [Website](https://friendi.ca)  
 - **Pixelfed** 🌐: open-source, decentralised social network alternative to Instagram. Originally created by a Canadian🇨🇦 [Website](https://pixelfed.org)  
 - **Lemmy** 🌐: Federated, open-source discussion platform alternative to Reddit. Developed by Lemmy.ml, founded by German devs🇩🇪. [Website](https://join-lemmy.org)
-- **Steemit** 🌐: Decentralised blogging platform (blockchain-based). [Website](https://steemit.com)
 
 ## Antivirus Programs
 The following programs are developed and operated entirely in Europe with no ties to the US or Russia. They are not tied to the US Patriot Act, nor US CLOUD Act, which means your data is safe.
@@ -112,15 +112,14 @@ The following programs are developed and operated entirely in Europe with no tie
   [Website](https://www.pandasecurity.com)
   
 ## Video Hosting
-- **Peertube** 🇫🇷: Decentralised video hosting. [Website](https://joinpeertube.org)
+- **Peertube** 🌐: Decentralised video hosting. [Website](https://joinpeertube.org)
 - **Dailymotion** 🇫🇷: Video sharing platform. [Website](https://dailymotion.com)
-- **Odysee** 🌐: Decentralised, blockchain-based video sharing. [Website](https://odysee.com)
 
 ## Office Suites
 - **LibreOffice** 🌐: 100% free open-source office suite, developed by a German🇩🇪-based non-profit but contributed to by a global community!
 offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .pptx, etc.); No Tracking, No Cloud Lock-In. Unlike Microsoft Office, LibreOffice doesn’t collect data or force cloud storage; Runs on Windows, macOS, Linux.
 - **OnlyOffice** 🇱🇻: Open-source office suite. [Website](https://onlyoffice.com)
-- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.
+- **Collabora Office** 🇬🇧: Open-source office suite. [Website](https://www.collaboraoffice.com)
 -  **Zoho Docs** 🇮🇳: A robust cloud-based office suite with excellent collaboration tools and integration options. [Website](https://www.zoho.com/docs/)
 
 - **CryptPad** 🇫🇷: A privacy-focused, encrypted alternative to Google Docs. Perfect for secure document collaboration without compromising usability. [Website](https://cryptpad.fr)
